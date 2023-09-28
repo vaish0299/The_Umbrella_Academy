@@ -1,5 +1,5 @@
  # The Umbrella Academy
- 
+
 The Umbrella Academy" follows the lives of seven adopted siblings, each born with unique superpowers, who were raised to become a superhero team by an enigmatic billionaire. However, the family fractures, and they go their separate ways. When their estranged father dies, they reunite to solve the mystery of his death and prevent an impending apocalypse. Along the way, they confront their complex pasts, uncover family secrets, and face extraordinary challenges that test their abilities and relationships in a world where time travel, extraordinary powers, and a talking chimpanzee are the norm
 ## Research Question
 The research question explored in "The Umbrella Academy" by Gerard Way and Gabriel Bá revolves around a dysfunctional family of adopted super-powered siblings who must come together to solve the mystery of their father's death and prevent an impending apocalypse. Each member of the Umbrella Academy possesses unique abilities and has their own complex personality and history. The story blends elements of superhero fiction, science fiction, and family drama to explore themes of identity, destiny, trauma, and the impact of extraordinary powers on individuals and their relationships.
@@ -37,6 +37,6 @@ To ensure steady progress, a graphic chapter corresponding to the chapters in "T
 ## Directory Structure
 
 - **Images:** This directory will have weekly folders containing the generated images.
-  - **Weekly Folder:** Each weekly folder will contain the images generated for that specific week.
-  - **Character:** This directory will have subfolders for each character, containing images used to generate the scenes.
+- **Weekly Folder:** Each weekly folder will contain the images generated for that specific week.
+- **Character:** This directory will have subfolders for each character, containing images used to generate the scenes.
 
