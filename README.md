@@ -37,6 +37,6 @@ To ensure steady progress, a graphic chapter corresponding to the chapters in "T
 ## Directory Structure
 
 - **Images:** This directory will have weekly folders containing the generated images.
-- **Weekly Folder:** Each weekly folder will contain the images generated for that specific week.
+  - **Weekly Folder:** Each weekly folder will contain the images generated for that specific week.
 - **Character:** This directory will have subfolders for each character, containing images used to generate the scenes.
 
